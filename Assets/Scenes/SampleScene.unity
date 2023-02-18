@@ -137,7 +137,7 @@ GameObject:
   - component: {fileID: 88044902}
   - component: {fileID: 88044901}
   m_Layer: 0
-  m_Name: 4
+  m_Name: PieceRope4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -285,7 +285,7 @@ GameObject:
   - component: {fileID: 312468940}
   - component: {fileID: 312468939}
   m_Layer: 0
-  m_Name: 1
+  m_Name: PieceRope1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -540,7 +540,7 @@ GameObject:
   - component: {fileID: 393127503}
   - component: {fileID: 393127506}
   m_Layer: 0
-  m_Name: 5
+  m_Name: PieceRope5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -796,7 +796,7 @@ GameObject:
   - component: {fileID: 525544405}
   - component: {fileID: 525544404}
   m_Layer: 0
-  m_Name: 3
+  m_Name: PieceRope3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1167,7 +1167,7 @@ DistanceJoint2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1795078769}
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 336876018}
@@ -1193,7 +1193,7 @@ GameObject:
   - component: {fileID: 1881058648}
   - component: {fileID: 1881058647}
   m_Layer: 0
-  m_Name: 2
+  m_Name: PieceRope2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
